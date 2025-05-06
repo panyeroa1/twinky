@@ -1,6 +1,6 @@
 export const CONFIG = {
     API: {
-        KEY: "AIzaSyBz7Is9nj4UqR1Rkax370n--5y13TYgLJU"
+        KEY: "AIzaSyCsjwbeRjyNm60dyjKfQKfhdcg1xiosXdo",
         BASE_URL: "wss://generativelanguage.googleapis.com/ws",
         VERSION: "v1alpha",
         MODEL_NAME: "models/gemini-2.0-flash-exp",
