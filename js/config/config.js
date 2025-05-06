@@ -13,7 +13,7 @@ export const CONFIG = {
     },
     AUDIO: {
         INPUT_SAMPLE_RATE: 16000,
-        OUTPUT_SAMPLE_RATE: 22000,
+        OUTPUT_SAMPLE_RATE: 25000,
         BUFFER_SIZE: 7680,
         CHANNELS: 1,
     },
